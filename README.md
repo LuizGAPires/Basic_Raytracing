@@ -5,3 +5,24 @@ A minimal yet powerful implementation of a raytracer from scratch, written in mo
 This repository walks through the core concepts of ray tracing: rays, spheres, shading, anti-aliasing, diffuse reflection, and more — all crafted with clarity and simplicity.
 
 ---
+
+## 📸 Preview
+
+The renderer outputs a simple PPM image file (`.ppm`), which can be viewed with most image viewers or converted using ImageMagick or similar tools.
+
+---
+
+## 🚀 Features
+
+- ✅ Custom vector math implementation (`vec3`)
+- ✅ Basic ray-object intersection
+- ✅ Scene made of spheres (`hittable_list`)
+- ✅ Ray-sphere intersection
+- ✅ Color shading based on ray depth
+- ✅ Anti-aliasing
+- ✅ Recursive ray bouncing for diffuse materials
+- ✅ Outputs `.ppm` image
+
+---
+
+## 🧪 Sample Output
