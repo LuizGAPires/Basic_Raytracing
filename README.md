@@ -2,7 +2,7 @@
 
 A minimal yet powerful implementation of a raytracer from scratch, written in modern C++. This project is based on the renowned book [_Ray Tracing in One Weekend_ by Peter Shirley_], and is a great foundation for anyone learning computer graphics, ray-object intersection, camera modeling, and shading.
 
-> 🎓 **Project developed for a Graphic Computing course**  
+> 🎓 **Project developed for a Graphic Computing course** of the first semester of 2024
 > As part of academic exploration into rendering pipelines, ray-object math, and image synthesis techniques.
 
 ---
